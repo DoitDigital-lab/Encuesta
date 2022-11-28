@@ -1,0 +1,5 @@
+Abrir http://localhost:8088/h2-console/ y conectar 
+Insertar en tabla estilo el siguiente script
+insert into estilo values (1,'Rock');
+insert into estilo values (2,'Pop');
+insert into estilo values (3,'Clásica');
